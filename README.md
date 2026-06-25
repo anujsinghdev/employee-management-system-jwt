@@ -54,3 +54,30 @@ MySQL database is used for storing user and employee information.
 Anuj Kumar
 
 GitHub: https://github.com/anujsinghdev
+
+
+## API Testing Screenshots
+
+### Register User
+
+![Register User](screenshots/register-user.png)
+
+### Login User
+
+![Login User](screenshots/login-user.png)
+
+### Get All Employees
+
+![Get Employees](screenshots/get-all-employees.png)
+
+### Add Employee
+
+![Add Employee](screenshots/add-employee.png)
+
+### Update Employee
+
+![Update Employee](screenshots/update-employee.png)
+
+### Delete Employee
+
+![Delete Employee](screenshots/delete-employee.png)
